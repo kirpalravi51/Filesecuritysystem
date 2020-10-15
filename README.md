@@ -1,2 +1,2 @@
 # Filesecuritysystem
-It just an executable file. Just run and explore it. 
+It is just an executable file. Just run and explore it. 
